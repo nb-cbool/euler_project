@@ -28,6 +28,6 @@ dependencies {
 test {
     useJUnitPlatform()
     reports {
-        html.destination = file('reports/')
+        html.destination = file('report/')
     }
 }

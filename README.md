@@ -13,6 +13,6 @@ To run an specefic exercise:
 ## Results
 To view the report go to the following link:
 
-[Test Summary]( https://htmlpreview.github.io/?${{GITHUB_SERVER_URL}}${{GITHUB_REPOSITORY}}reports/index.html)
+[Test Summary](https://nb-cbool.github.io/euler_project/)
 ## References
 [Euler Project website](https://projecteuler.net/about)
